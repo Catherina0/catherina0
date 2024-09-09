@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Transgender girl 🏳️‍⚧️
+- Transgender cat girl 🏳️‍⚧️
 - ⚠️ASD+ADHD
 - 🐈/🏹/🚴/💻
 - CS&EE&AM
