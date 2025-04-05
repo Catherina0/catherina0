@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚠️ASD+ADHD
 - 🐈/🏹/🚴/💻
 - CS&EE&AM
-- Transgender Catgirl
+- Catgirl
 - PGP pubkey: [`04A9 B785 4A4C 18EE 14E3 77FE C1D9 84F0 BBA1 B3B9`](http://keyserver.ubuntu.com:11371/pks/lookup?search=zzt2930%40gmail.com&fingerprint=on&op=index)
 - 🏫Monash
 
