@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚠️ASD+ADHD
+- ⚠️AuDHD
 - 🐈/🏹/🚴/💻
 - CS&EE&AM
 - Trans Catgirl
