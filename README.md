@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi， I am Catherina.
+
+An undergraduate student currently interning at the Institute of Software, Chinese Academy of Sciences, with a primary focus on RISC-V, foundational software, and systems. 
 
 - ⚠️AuDHD
 - 🐈/🏹/🚴/💻
